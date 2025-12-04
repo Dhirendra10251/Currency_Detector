@@ -1,0 +1,16 @@
+# Ignore the massive dataset
+Final_Split_Dataset/
+Currency_Dataset_Final_Split/
+_Cleaned/
+raw_images/
+
+# Ignore the heavy model files (too big for standard GitHub)
+*.pth
+*.pt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Mac system files
+.DS_Store
